@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/백준/그리디" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/백준/문자열" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/백준/수학" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/백준/브루트포스" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
