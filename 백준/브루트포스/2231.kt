@@ -6,7 +6,8 @@ fun main() = with(System.`in`.bufferedReader()){
         ret = i + i.toString().split("").filter { it != "" }.fold(0) {sum, it -> sum + it.toInt()}
         if (ret == n){
             print(i)
-            break
+            return
         }
     }
+    print(0)
 }
